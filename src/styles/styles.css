@@ -1,0 +1,24 @@
+.form {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.title {
+    margin-left: 25px;
+    align-self: center;
+    font-size: 42px;
+}
+
+.movie-list {
+    margin-left: 25px;
+}
+
+.movie-list li {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
