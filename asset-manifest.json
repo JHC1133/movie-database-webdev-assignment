@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-database-webdev-assignment/static/css/main.c5c46d0d.css",
+    "main.js": "/movie-database-webdev-assignment/static/js/main.7dd9b218.js",
+    "static/js/453.a07f8b07.chunk.js": "/movie-database-webdev-assignment/static/js/453.a07f8b07.chunk.js",
+    "index.html": "/movie-database-webdev-assignment/index.html",
+    "main.c5c46d0d.css.map": "/movie-database-webdev-assignment/static/css/main.c5c46d0d.css.map",
+    "main.7dd9b218.js.map": "/movie-database-webdev-assignment/static/js/main.7dd9b218.js.map",
+    "453.a07f8b07.chunk.js.map": "/movie-database-webdev-assignment/static/js/453.a07f8b07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c46d0d.css",
+    "static/js/main.7dd9b218.js"
+  ]
+}
